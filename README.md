@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @voyles
-- 👀 I’m interested in blockchains, crypotocurrency, AI, Python, Unreal Engine, and Godot
-- 🌱 I’m currently learning smart contracts through Coursera and University at Buffalo
-- 💞️ I’m looking to collaborate on a new consensus protocol for a blockchain
+- 👀 I’m interested in AI, Python, , C#, Unity, Unreal Engine, and Godot
+- 🌱 I’m currently working on building my portfolio
+- 💞️ I’m looking to collaborate on a project using Unity
 - 📫 How to reach me ...
 
 <!---
